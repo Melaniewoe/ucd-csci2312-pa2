@@ -1,9 +1,9 @@
 ## CSCI 2312: Programming Assignment 2
 
-Name : Melanie Woe
-Programming Assignment #2
-Student ID : 105557790
-Due Date : Feb. 07, 2016
+- Name : Melanie Woe
+- Programming Assignment #2
+- Student ID : 105557790
+- Due Date : Feb. 07, 2016
 
 ***
 
