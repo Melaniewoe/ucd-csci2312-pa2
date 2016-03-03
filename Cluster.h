@@ -7,7 +7,8 @@ namespace Clustering {
 
     typedef struct LNode *LNodePtr;
 
-    struct LNode {
+    struct LNode
+    {
 
         Point point;
         LNodePtr next;
